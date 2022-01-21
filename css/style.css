@@ -1,3 +1,20 @@
-h3, h5, h6 {
+h3, h5 {
     color: rgb(0, 0, 82);
+}
+
+h6 {
+    color: white;
+}
+
+body { 
+    background: url(../bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgb(60, 129, 146);
+}
+
+.div_color {
+    background-color: rgba(32, 21, 192, 0.432);
 }
