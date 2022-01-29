@@ -15,25 +15,32 @@ body {
     background-color: rgb(60, 129, 146);
 }
 
-.div-color {
-    background-color: rgba(32, 21, 192, 0.432);
+.img-div {
+    background-color: rgba(32, 21, 192, 0.4);
     margin-bottom: 10px;
-}
-
-.back-btn {
-    padding-left: 10px;
-    padding-top: 10px;
-    float: left;
-}
-
-.btn-width {
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 14px;
 }
 
 img {
     width: 200px;
     height: 200px;
     object-fit: cover;
-  }
+}
+
+.back-div {
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+}
+
+.back-btn {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: rgb(209, 236, 241);
+    color: rgb(0, 0, 82);
+}
+
+.back-btn:hover {
+    background-color: rgb(0, 0, 82);
+    color: rgb(209, 236, 241);
+}
