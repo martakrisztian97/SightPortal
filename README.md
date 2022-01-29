@@ -1,4 +1,4 @@
 # Sight Portal
 Országonként a leglátogatottabb, kiemelten érdekes nevezetességeket népszerűsítő ötletdús portál.
 
-![image](https://user-images.githubusercontent.com/74590556/150675610-2bb00979-5942-4435-bc78-80df17ffb9e1.png)
+![image](https://user-images.githubusercontent.com/74590556/151668555-984ae005-30b9-4840-9179-314ff76821e6.png)
